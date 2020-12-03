@@ -64,7 +64,6 @@ IDE Configuration
 Eclipse plugins  
 ----------------
 Configure and Install Following Plugins  
-File >> Setting >> Plugins >> Browser Repositories>
 
 *Cucumber for Java
 *Gherkin- Natural
@@ -84,7 +83,9 @@ Expand NG_XMLs >> Web_UI_Testing.xml >> Right Click >> Run As >> TestNG Suite
 
 If any TESTNG Error :
 ==========================
-TestNG by default disables loading DTD from unsecure Urls
+While execution TestNG.xml, if you encounter this error:TestNG by default disables loading DTD from unsecure Urls
+
+Please proceed with the following steps.
 
 FIX: 
 
@@ -124,7 +125,7 @@ Local reports
 -------------
 Date wise Extent-emailable Html Report  (Please refer this report)
 
-A report will be generated at /Execution_Reports\Web_Reports\02.12.2020 
+A report will be generated at /Execution_Reports\Web_Reports\03.12.2020(Date & time wise folders will be created) 
 
 Standard HTML Report  
 A report will be generated at /target/cucumber-report/index.html  
