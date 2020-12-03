@@ -1,5 +1,5 @@
 ==================================================================================
-Data Matrix BDD Cucumber Selenium Webdriver Rest-Assured Java Test Automation Framework
+DataMatics BDD Cucumber with Selenium Webdriver Test Automation Framework
 ==================================================================================
 This project is an test automation framework, which provides structured and standard way of 
 creating automated test scripts for GUI, and API level tests(Extra Capabilaties). 
