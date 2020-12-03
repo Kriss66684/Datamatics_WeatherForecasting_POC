@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="222469" started-at="2020-12-03T11:15:50 IST" finished-at="2020-12-03T11:19:32 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="Web_Runner.scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="scenario" class="com.dm.bdd.common.runner_files.Web_Runner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Web" duration-ms="222469" started-at="2020-12-03T11:15:50 IST" finished-at="2020-12-03T11:19:32 IST">
+      <class name="com.dm.bdd.common.runner_files.Web_Runner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="setUpClass" is-config="true" duration-ms="356" started-at="2020-12-03T11:15:50 IST" finished-at="2020-12-03T11:15:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="scenario" duration-ms="69791" started-at="2020-12-03T11:15:50 IST" description="Run Cucumber Scenario" data-provider="scenarios" finished-at="2020-12-03T11:17:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Get Weather Max report for weekDays"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search weather Report"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="scenario" duration-ms="21489" started-at="2020-12-03T11:17:00 IST" description="Run Cucumber Scenario" data-provider="scenarios" finished-at="2020-12-03T11:17:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Get hourly Weather report for day"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search weather Report"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="scenario" duration-ms="30715" started-at="2020-12-03T11:17:21 IST" description="Run Cucumber Scenario" data-provider="scenarios" finished-at="2020-12-03T11:17:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Get hourly Weather report for day and hide the day"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search weather Report"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="scenario" duration-ms="21259" started-at="2020-12-03T11:17:52 IST" description="Run Cucumber Scenario" data-provider="scenarios" finished-at="2020-12-03T11:18:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Daily forecast should summarize the 3 hour data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search weather Report"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="scenario" duration-ms="57313" started-at="2020-12-03T11:18:13 IST" description="Run Cucumber Scenario" data-provider="scenarios" finished-at="2020-12-03T11:19:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Get all city weather report"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search weather Report"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="scenario" duration-ms="20932" started-at="2020-12-03T11:19:11 IST" description="Run Cucumber Scenario" data-provider="scenarios" finished-at="2020-12-03T11:19:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate error message when user enter invalid city"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search weather Report"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.dm.bdd.common.runner_files.Web_Runner@50b472aa]" name="tearDownClass" is-config="true" duration-ms="395" started-at="2020-12-03T11:19:32 IST" finished-at="2020-12-03T11:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.dm.bdd.common.runner_files.Web_Runner -->
+    </test> <!-- Web -->
+  </suite> <!-- Suite -->
+</testng-results>

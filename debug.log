@@ -1,0 +1,16 @@
+[0831/102410.237:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0831/154353.406:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0831/154734.068:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0831/195901.286:ERROR:file_io_win.cc(162)] CreateFile C:\Users\hari\AppData\Local\Temp\scoped_dir17560_105617179\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0910/164656.062:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/190620.054:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/205019.458:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/173250.194:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0917/151325.096:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/114318.350:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/170120.832:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0923/133944.781:ERROR:file_io_win.cc(162)] CreateFile C:\Users\hari\AppData\Local\Temp\scoped_dir19392_1007925050\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0923/133944.909:ERROR:file_io_win.cc(171)] CreateFile C:\Users\hari\AppData\Local\Temp\scoped_dir19392_1007925050\Crashpad\reports\b7bac795-4e66-4a26-bd42-9e05b6707c81.dmp: The system cannot find the path specified. (0x3)
+[0923/133944.909:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1203/112912.006:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1203/112912.016:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
