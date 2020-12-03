@@ -4,7 +4,7 @@ This project is an test automation framework, which provides structured and stan
 creating automated test scripts for GUI, and API level tests(Extra Capabilaties). 
 
 This framework supports automation of the following: - 
-*Web Browsers (Firefox, Chrome, Internet Explorer)  
+*Web Browsers (Firefox, Chrome, Internet Explorer,MS Edge)  
  
 This framework incorporates design principle of BDD (Behaviour driven development). which promotes
  writing acceptance tests by describing user behaviour in the application using Gherkin Language (simple english language).
@@ -53,7 +53,7 @@ Following are the features of this Automation Framework
 
 Machine Configuration
 ====================
-Configure Windows and setup: -   
+Configure Windows and setup 
 *Java 8  
 *Git  / SVN  
 *Maven  
@@ -64,7 +64,6 @@ IDE Configuration
 Eclipse plugins  
 ----------------
 Configure and Install Following Plugins  
-
 *Cucumber for Java
 *Gherkin- Natural
 *Git Integration/ SVN Integration  
