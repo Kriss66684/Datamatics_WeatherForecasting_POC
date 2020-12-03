@@ -123,6 +123,7 @@ Report
 Local reports
 -------------
 Date wise Extent-emailable Html Report  (Please refer this report)
+
 A report will be generated at /Execution_Reports\Web_Reports\02.12.2020 
 
 Standard HTML Report  
