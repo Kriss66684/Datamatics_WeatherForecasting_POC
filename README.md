@@ -36,12 +36,19 @@ Following are the features of this Automation Framework
 *Externalizing the Test data either via .xml or Excel or json files - Easy of Maintenance
 
 *Cross Browser Testing – Running scripts in multiple browsers
+
 *Parallel Execution – Executing scripts parallel​
+
 *Jenkins Integration – Running scripts Manually , Schedule or Automatic mode(Simple steps to configure)
+
 *GIT  Repository – For Check-in and Check-out of Code​(Simple steps to configure)
+
 *Flexible Framework and easy adaptability for any project in no time
+
 *Improvised results view with Screenshots for failures​
+
 *Random/Dynamic Test Data Generation – reduced 90% data storage​
+
 *Smart Synchronization Faster Execution
 
 Machine Configuration
