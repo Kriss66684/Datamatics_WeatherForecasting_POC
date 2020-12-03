@@ -1,4 +1,3 @@
-==================================================================================
 DataMatics BDD Cucumber with Selenium Webdriver Test Automation Framework
 ==================================================================================
 This project is an test automation framework, which provides structured and standard way of 
