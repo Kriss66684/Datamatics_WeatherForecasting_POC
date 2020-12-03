@@ -15,9 +15,7 @@ Tools & libraries
 =================
 The test automation framework is comprised of following tools and libraries  
 *Cucumber-JVM:- BDD Framework  
-
 *Custom Page Object Pattern and utility functions  
-
 *Selenium WebDriver: - Browser automation framework
 *JAVA: - Programming language  
 *TestNg: - TestNg Java testing framework  
@@ -30,9 +28,13 @@ The test automation framework is comprised of following tools and libraries
 Features
 =================
 Following are the features of this Automation Framework
+
 *Creating Objects & Methods in Page Model which can be "reused"
+
 *CCL  (common code library) - CCL – Helper Methods - Waits , Document upload , Random Data Generator, Elements Finder etc.,​
+
 *Externalizing the Test data either via .xml or Excel or json files - Easy of Maintenance
+
 *Cross Browser Testing – Running scripts in multiple browsers
 *Parallel Execution – Executing scripts parallel​
 *Jenkins Integration – Running scripts Manually , Schedule or Automatic mode(Simple steps to configure)
